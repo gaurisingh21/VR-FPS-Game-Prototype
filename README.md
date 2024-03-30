@@ -28,14 +28,12 @@ The project is a VR FPS game prototype with targets to shoot within 1.5 minutes.
 
 This project was developed for my bachelor's thesis "Effect of resolution on player performance and experience in low-fidelity virtual reality first-person shooting games" available at [DiVA](https://bth.diva-portal.org/smash/record.jsf?pid=diva2%3A1778716&dswid=1523) portal. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
-* C# 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+* C#
+* OpenXR Package
+* XR Interaction Toolkit
+* XR Device Simulator
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -46,6 +44,7 @@ To get a local copy up and running follow these simple example steps.
 
 * Unity Version: 2021.3.27f1
 * VR Headset: Meta Quest 2
+* IDE: Visual Studio 2022
 
 ### Installation
 
@@ -55,5 +54,3 @@ To get a local copy up and running follow these simple example steps.
    ```
 2. Run the game
    Open the game in supported Unity Version and click on Run button.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
